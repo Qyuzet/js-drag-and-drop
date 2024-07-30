@@ -1,6 +1,6 @@
 # JS Drag & Drop
 
-This project is a drag-and-drop web application built using HTML, CSS, and JavaScript. It allows users to drag list items from one container to another [TRY NOW!](https://qyuzet.github.io/js-drag-and-drop).
+This project is a drag-and-drop web application built using HTML, CSS, and JavaScript. It allows users to drag list items from one container to another [TRY NOW!](https://qyuzet.github.io/js-drag-and-drop)..
 
 ![image](https://github.com/user-attachments/assets/2d18ec5d-21d5-4e6c-b127-8fe9e4f44828)
 
